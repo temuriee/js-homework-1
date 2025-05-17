@@ -1,0 +1,25 @@
+// ! Temo 3/17/25
+
+// Creating varriables
+let firstName = "First Name : Temo";
+let lastName = "Last Name : Jinjikhadze";
+let email = "Email : Example@gmail.com";
+let phoneNumber = 597321322;
+let age = 16;
+let hobby = "Hobby : WebDevelopment";
+let HeIsStudent = true;
+let question = "Is He Student? (Answer Bellow ⬇️)";
+let birthday = age + 1;
+let changehobby = "New Hobby : Football";
+
+// Putting It Out On Console
+console.log(firstName);
+console.log(lastName);
+console.log(email);
+console.log(hobby);
+console.log(question);
+console.log(HeIsStudent);
+console.log(age);
+// Update Age And Hobby
+console.log(birthday);
+console.log(changehobby);
